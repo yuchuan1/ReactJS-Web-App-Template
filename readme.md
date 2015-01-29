@@ -1,5 +1,10 @@
 # This is a boilerplate for a web application using React.js #
+## Usage ##
+- Run gulp serve to preview and watch for changes
+- Run bower install --save <packageto install frontend dependencies
+- Run gulp to build your webapp for production
 
+## How this package was made ##
 ## Install generator-gulp-webapp ##
 
     Install dependencies: npm install --global yo bower
@@ -45,6 +50,3 @@
 
 Put your .jsx files anywhere in app/scripts, but include them in your HTML as if they're .js files -- e.g. for app/scripts/foo.jsx, use `<script src="scripts/foo.js"></script>`
 
-- Run gulp serve to preview and watch for changes
-- Run bower install --save <packageto install frontend dependencies
-- Run gulp to build your webapp for production 
