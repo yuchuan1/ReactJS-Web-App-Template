@@ -6,6 +6,6 @@ var MyComponent = React.createClass({
     }
 });
 
-React.renderComponent(<MyComponent name="What's up? Yo!" />,
+React.renderComponent(<MyComponent name="Good Day!" />,
     document.getElementById('reactExample')
 );
